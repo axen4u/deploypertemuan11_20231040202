@@ -4,3 +4,5 @@
 <img width="1920" height="1080" alt="Screenshot 2026-05-20 105137" src="https://github.com/user-attachments/assets/5a5bb8bc-12ba-4114-849f-9291575aac27" />
 (running app)
 <img width="1459" height="752" alt="image" src="https://github.com/user-attachments/assets/5ac353c2-42eb-42a2-9e73-fb406308357e" />
+(home)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca53e6d3-4687-42f5-a068-6b44e3e03d4e" />
